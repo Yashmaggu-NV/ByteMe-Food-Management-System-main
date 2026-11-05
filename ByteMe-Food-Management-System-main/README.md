@@ -18,7 +18,7 @@ It streamlines the process of placing, tracking, and managing food orders effici
 ### ⚙️ Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ayush1Garg07/ByteMe-Food-Management-System.git
+git clone https://github.com/Yashmaggu-NV/ByteMe-Food-Management-System-main.git
 cd ByteMe-Food-Management-System
 
 2. Import the database using the provided SQL script (database.sql).
